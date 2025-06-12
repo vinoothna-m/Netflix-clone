@@ -40,3 +40,7 @@ A replica of the Netflix web application built using modern web technologies. Th
    ```bash
    git clone https://github.com/your-username/netflix-clone.git
    cd netflix-clone
+
+
+   Link:
+    https://vinoothna-m.github.io/Netflix-clone/
