@@ -43,4 +43,4 @@ A replica of the Netflix web application built using modern web technologies. Th
 
 
    Link:
-    https://vinoothna-m.github.io/Netflix-clone/
+    https://vinoothna-net.netlify.app/
